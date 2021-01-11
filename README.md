@@ -1,3 +1,1 @@
 # LinRegStockPredicterML
-# LinRegStockPredicterML
-# LinRegStockPredicterML
